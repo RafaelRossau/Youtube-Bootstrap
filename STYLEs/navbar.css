@@ -1,0 +1,47 @@
+#navbar{
+    background-color: rgb(27, 26, 26);
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    display: flex;
+}
+#img-logo{
+    margin-top: 4px;
+    width: 40px;
+    height: 30px;
+    margin-left: 20px;
+}
+#img{
+    margin-top: 4px;
+}
+#search-bar{
+    width: 500px;
+}
+input{
+    background-color: rgb(27, 26, 26) !important;
+    color: white !important;
+}
+#search-icon{
+    background-color: grey !important;
+}
+#search-elements{
+    display: flex;
+    gap: 10px;
+}
+input::placeholder{
+    color: white !important;
+}
+#mic{
+    background-color: grey;
+}
+#create{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+}
+#user-elements{
+    display: flex;
+    gap: 20px;
+}
