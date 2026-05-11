@@ -42,7 +42,3 @@ input::placeholder{
     justify-content: center;
     width: 100px;
 }
-#user-elements{
-    display: flex;
-    gap: 20px;
-}
