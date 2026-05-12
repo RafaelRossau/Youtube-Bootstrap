@@ -2,6 +2,7 @@
     background-color: rgb(27, 26, 26);
     display: flex;
     justify-content: space-between;
+    position: fixed;
     height: 5vh;
 }
 #logo{
@@ -41,4 +42,8 @@ input::placeholder{
     display: flex;
     justify-content: center;
     width: 100px;
+}
+#user-elements{
+    display: flex;
+    gap: 20px;
 }

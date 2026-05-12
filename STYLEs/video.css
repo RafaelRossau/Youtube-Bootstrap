@@ -1,0 +1,62 @@
+body, html{
+    background-color: rgb(27, 26, 26) !important;
+}
+
+#video-play{
+    height: 85vh;
+    width: 75vw;
+    background-color: aqua;
+}
+.video-info-elements2{
+    width: 75vw;
+    margin-top: 20px;
+    background-color: grey;
+    color: white;
+}
+.thumb{
+    height: 99.5%;
+    width: 70%;
+    background-color: blue;
+}
+.video{
+    height: 120px;
+    width: 20vw;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+}
+.others{
+    line-height: 1px;
+    margin-left: 5px;
+}
+.x{
+    justify-self: end;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 40px;
+}
+.items{
+    background-color: grey;
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100px;
+    color: white;
+}
+.p{
+    display: flex;
+    gap: 400px;
+}
+.second{
+    display: flex;
+    gap: 20px;
+}
+.z{
+    color: white !important;
+}
+.n{
+    color: grey;
+}

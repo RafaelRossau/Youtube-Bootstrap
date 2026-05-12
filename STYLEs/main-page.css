@@ -7,7 +7,7 @@ body, html{
     overflow-y: auto;
     scrollbar-width: none;
     position: fixed;
-    margin-top: 7vh;
+    margin-top: 5vh;
 }
 #sidebar:hover{
     scrollbar-width: thin;
@@ -130,10 +130,6 @@ p{
     display: flex;
     flex-direction: column;
     line-height: 5px;
-}
-#user-elements{
-    display: flex;
-    gap: 20px;
 }
 .img-mod{
     width: 100%;
